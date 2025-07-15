@@ -1,1 +1,8 @@
-# llm-generations
+* [0BS to Borpa](0BS_to_Borpa.txt)
+* [Borpa to Domnhall](Borpa_to_Domnhall.txt)
+* [Domnhall to GodzillaSong](Domnhall_to_GodzillaSong.txt)
+* [GodzillaSong to Katedra](GodzillaSong_to_Katedra.txt)
+* [Katedra to newport](Katedra_to_newport.txt)
+* [newport to Roybatty](newport_to_Roybatty.txt)
+* [Roybatty to theoneandonlyfester](Roybatty_to_theoneandonlyfester.txt)
+* [theoneandonlyfester to _V_askerade](theoneandonlyfester_to__V_askerade.txt)
